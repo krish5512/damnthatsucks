@@ -1,0 +1,7 @@
+Pk_Prd_Key,Pr_ID,Pr_Name,Price,Qty,Fk_Cat_ID
+7,p01,parker,200,10,1
+8,p02,camlin,500,17,1
+9,p03,delta,100,25,1
+10,p04,lexi,5,100,1
+11,p05,nike,3000,4,2
+12,p06,adidas,9000,2,2

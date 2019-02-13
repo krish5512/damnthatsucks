@@ -1,0 +1,9 @@
+Pk_Cust_Key,Cust_ID,C_Name,Place,Email,Eff_Dt,End_Dt,Active_Flg
+23,c06,Anurag,Pune,anupm@sdmj.com,01/01/2007 00:00:00,12/31/9999 00:00:00,A
+21,c06,Anurag,Delhi,anupm@sdmj.com,01/01/2006 00:00:00,12/31/9999 00:00:00,I
+22,c01,Anu,Palakkad,anu@sdmj.com,01/01/2006 00:00:00,12/31/9999 00:00:00,A
+16,c01,Anu,Kochi,anu@sdmj.com,01/01/2005 00:00:00,12/31/9999 00:00:00,I
+17,c02,Anusha,Chennai,anush@sdmj.com,01/01/2005 00:00:00,12/31/9999 00:00:00,A
+18,c03,Anup,Bangalore,anup@sdmj.com,01/01/2005 00:00:00,12/31/9999 00:00:00,A
+19,c04,Anusree,Hyderabad,anusr@sdmj.com,01/01/2005 00:00:00,12/31/9999 00:00:00,A
+20,c05,Anupama,Delhi,anupm@sdmj.com,01/01/2005 00:00:00,12/31/9999 00:00:00,A
